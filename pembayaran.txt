@@ -1,0 +1,82 @@
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A018       Topi                 1          45000,00       
+
+Total Harga: 45000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A004       Aromaterapi          2          50000,00       
+A009       Tempat Pensil        1          45000,00       
+
+Total Harga: 145000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A010       Buku Tulis           3          12000,00       
+
+Total Harga: 36000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A002       Parfum               1          40000,00       
+A001       Boneka               3          140000,00      
+A018       Topi                 30         55000,00       
+
+Total Harga: 2110000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A001       Boneka               1          140000,00      
+
+Total Harga: 140000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A005       Kacamata             2          45000,00       
+
+Total Harga: 90000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A016       Jam Tangan           1          156000,00      
+
+Total Harga: 156000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A016       Jam Tangan           1          156000,00      
+
+Total Harga: 156000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A007       Tas                  2          120000,00      
+
+Total Harga: 240000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A015       Bantal Leher         3          90000,00       
+
+Total Harga: 270000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A019       Kipas Mini           1          58000,00       
+
+Total Harga: 58000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A019       Kipas Mini           9          58000,00       
+
+Total Harga: 522000,00
+----------------------------------------------------------
+Transaksi:
+Kode       Nama                 Jumlah     Harga Satuan   
+A002       Parfum               2          40000,00       
+A003       Bunga                -1         20000,00       
+
+Total Harga: 60000,00
+----------------------------------------------------------
